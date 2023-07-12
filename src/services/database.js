@@ -5,3 +5,8 @@ const db = getFirestore(conexion);
 
 export default db;
 
+
+
+
+
+
